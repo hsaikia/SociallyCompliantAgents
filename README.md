@@ -1,6 +1,6 @@
 # UnityMLAgents
-# Unity environments for Machine Learning agents
-# In trainer_config.yaml
+## Unity environments for Machine Learning agents
+### In trainer_config.yaml
 
 SocialWalkerBrain:
   use_recurrent: true
